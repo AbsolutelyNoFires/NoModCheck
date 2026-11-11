@@ -63,4 +63,4 @@ For check 1, the log confirms the detection method is patched at load. It hasn't
 
 ## Please don't report bugs from a patched game
 
-These checks most likely exist so the developer can tell modded games apart. If you hit a bug, reproduce it in an unmodified Aurora before reporting it.
+If you hit a bug, reproduce it in an unmodified Aurora before reporting it.
